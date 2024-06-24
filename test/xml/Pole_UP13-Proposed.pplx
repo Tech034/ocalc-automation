@@ -1,0 +1,1453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PPL DATE="6/1/2023 6:40:04 PM" USER="trent" WORKSTATION="TRENTWORKLABTOP">
+  <PPLScene>
+    <ATTRIBUTES>
+      <VALUE NAME="SoilDescription" TYPE="String">Compacted Earth</VALUE>
+      <VALUE NAME="Latitude" TYPE="Double">46.003013</VALUE>
+      <VALUE NAME="Longitude" TYPE="Double">-112.529686</VALUE>
+      <VALUE NAME="ElevationMetersAboveMSL" TYPE="Double">0</VALUE>
+      <VALUE NAME="DescriptionOverride" TYPE="String" />
+      <VALUE NAME="Guid" TYPE="String">20ef13ae-a350-44b7-8a93-962dea831822</VALUE>
+      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">True</VALUE>
+      <VALUE NAME="SelectedLoadCase" TYPE="Int32">0</VALUE>
+      <VALUE NAME="PPLVersion" TYPE="Int32">602</VALUE>
+      <VALUE NAME="WorkingDataStore" TYPE="String" />
+    </ATTRIBUTES>
+    <PPLChildElements>
+      <WoodPole>
+        <ATTRIBUTES>
+          <VALUE NAME="DescriptionOverride" TYPE="String" />
+          <VALUE NAME="Guid" TYPE="String">3736a16c-4361-4ce0-b5ed-f1a74066585d</VALUE>
+          <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">True</VALUE>
+          <VALUE NAME="Pole Number" TYPE="String">F1UP13</VALUE>
+          <VALUE NAME="Owner" TYPE="String">Pole</VALUE>
+          <VALUE NAME="Structure Type" TYPE="String">Auto</VALUE>
+          <VALUE NAME="Class" TYPE="String">5</VALUE>
+          <VALUE NAME="LengthInInches" TYPE="Double">540</VALUE>
+          <VALUE NAME="Material" TYPE="String">Wood</VALUE>
+          <VALUE NAME="Species" TYPE="String">WESTERN RED CEDAR</VALUE>
+          <VALUE NAME="Species Code" TYPE="String">NESC Standard</VALUE>
+          <VALUE NAME="BuryDepthInInches" TYPE="Double">65.4670505806728</VALUE>
+          <VALUE NAME="LineOfLead" TYPE="Double">4.13643032722656</VALUE>
+          <VALUE NAME="Easement" TYPE="Double">0</VALUE>
+          <VALUE NAME="LeanDirection" TYPE="Double">0</VALUE>
+          <VALUE NAME="LeanAmount" TYPE="Double">0</VALUE>
+          <VALUE NAME="RadiusAtTipInInches" TYPE="Double">3.02394391874601</VALUE>
+          <VALUE NAME="GLCircumMethod" TYPE="String">Measured</VALUE>
+          <VALUE NAME="Circum6ft" TYPE="Double">36</VALUE>
+          <VALUE NAME="MeasuredRadiusGL" TYPE="Double">5.88873289440013</VALUE>
+          <VALUE NAME="ApplyEffectiveRadiusGL" TYPE="Boolean">False</VALUE>
+          <VALUE NAME="EffectiveRadiusGL" TYPE="Double">5.68865915814444</VALUE>
+          <VALUE NAME="StrengthRemainingGL" TYPE="Double">0.901496765643244</VALUE>
+          <VALUE NAME="SoilClass" TYPE="String">Unset</VALUE>
+          <VALUE NAME="OverturnMoment" TYPE="Double">0</VALUE>
+          <VALUE NAME="Modulus of Rupture" TYPE="Double">6000</VALUE>
+          <VALUE NAME="Modulus of Elasticity" TYPE="Double">1000000</VALUE>
+          <VALUE NAME="PoissonsRatio" TYPE="Double">0.3</VALUE>
+          <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+          <VALUE NAME="ThermalCoefficient" TYPE="Double">2.7E-06</VALUE>
+          <VALUE NAME="Density" TYPE="Double">0.0289351851851852</VALUE>
+          <VALUE NAME="Characteristic Shear Strength" TYPE="Double">450</VALUE>
+          <VALUE NAME="Characteristic Compression Strength" TYPE="Double">3500</VALUE>
+          <VALUE NAME="Effective Length" TYPE="Double">-1</VALUE>
+          <VALUE NAME="Material Constant" TYPE="Double">1.24</VALUE>
+          <VALUE NAME="PoleMfgLength" TYPE="Double">540</VALUE>
+          <VALUE NAME="Table No" TYPE="String">ANSI5</VALUE>
+          <VALUE NAME="Offset" TYPE="Double">0</VALUE>
+          <VALUE NAME="Aux Data 1" TYPE="String">Unset</VALUE>
+          <VALUE NAME="Aux Data 2" TYPE="String">Unset</VALUE>
+          <VALUE NAME="Aux Data 3" TYPE="String">Unset</VALUE>
+          <VALUE NAME="Aux Data 4" TYPE="String">Unset</VALUE>
+          <VALUE NAME="Aux Data 5" TYPE="String">Unset</VALUE>
+          <VALUE NAME="Aux Data 6" TYPE="String">Unset</VALUE>
+          <VALUE NAME="Aux Data 7" TYPE="String">Unset</VALUE>
+          <VALUE NAME="Aux Data 8" TYPE="String">Unset</VALUE>
+          <VALUE NAME="BucklingConstant" TYPE="Double">0</VALUE>
+          <VALUE NAME="UseMomentCapacityTable" TYPE="Boolean">False</VALUE>
+          <VALUE NAME="MomentCapacityTable" TYPE="String">Moment;0,50000;</VALUE>
+          <VALUE NAME="WorkingDataStore" TYPE="String" />
+          <VALUE NAME="ActiveVersion" TYPE="Boolean">True</VALUE>
+        </ATTRIBUTES>
+        <PPLChildElements>
+          <Crossarm>
+            <ATTRIBUTES>
+              <VALUE NAME="DescriptionOverride" TYPE="String">Primary 3 pin Crossarm</VALUE>
+              <VALUE NAME="Guid" TYPE="String">d9283c3f-d1a5-4377-b13c-486dcd90a840</VALUE>
+              <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">True</VALUE>
+              <VALUE NAME="CoordinateX" TYPE="Double">4.92162412758838</VALUE>
+              <VALUE NAME="Description" TYPE="String">Primary 9ft Crossarm</VALUE>
+              <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+              <VALUE NAME="CoordinateZ" TYPE="Double">536.243176552661</VALUE>
+              <VALUE NAME="CoordinateA" TYPE="Double">0.0639810020239207</VALUE>
+              <VALUE NAME="Type" TYPE="String">Normal</VALUE>
+              <VALUE NAME="Face" TYPE="String">Front</VALUE>
+              <VALUE NAME="Count" TYPE="Int32">1</VALUE>
+              <VALUE NAME="Braced" TYPE="String">Double</VALUE>
+              <VALUE NAME="BraceAll" TYPE="Boolean">True</VALUE>
+              <VALUE NAME="BraceOffset" TYPE="Double">20</VALUE>
+              <VALUE NAME="BraceDrop" TYPE="Double">20</VALUE>
+              <VALUE NAME="LengthInInches" TYPE="Double">108</VALUE>
+              <VALUE NAME="HeightInInches" TYPE="Double">4.75</VALUE>
+              <VALUE NAME="DepthInInches" TYPE="Double">3.75</VALUE>
+              <VALUE NAME="Tilt" TYPE="Double">0</VALUE>
+              <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="LateralOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="Weight" TYPE="Double">66</VALUE>
+              <VALUE NAME="Modulus of Rupture" TYPE="Double">8000</VALUE>
+              <VALUE NAME="Modulus of Elasticity" TYPE="Double">1600000</VALUE>
+              <VALUE NAME="PoissonsRatio" TYPE="Double">0.3</VALUE>
+              <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+              <VALUE NAME="ThermalCoefficient" TYPE="Double">2.7E-06</VALUE>
+              <VALUE NAME="Joint" TYPE="String">Fixed</VALUE>
+              <VALUE NAME="Analysis Mode" TYPE="String">Automatic</VALUE>
+              <VALUE NAME="AllowableMomentVertical" TYPE="Double">500</VALUE>
+              <VALUE NAME="AllowableMomentLongitudinal" TYPE="Double">500</VALUE>
+              <VALUE NAME="AllowableLoadTransverse" TYPE="Double">0</VALUE>
+              <VALUE NAME="AllowableLoadLongitudinal" TYPE="Double">0</VALUE>
+              <VALUE NAME="OverrideStrength" TYPE="Boolean">False</VALUE>
+              <VALUE NAME="StrengthFactor" TYPE="Double">0.5</VALUE>
+              <VALUE NAME="Analysis Method" TYPE="String">Superposition</VALUE>
+              <VALUE NAME="Offset" TYPE="Double">0</VALUE>
+              <VALUE NAME="Material" TYPE="String">Wood</VALUE>
+              <VALUE NAME="Species" TYPE="String">Southern Pine</VALUE>
+              <VALUE NAME="ArmMaterial" TYPE="String">&lt;Default&gt;</VALUE>
+              <VALUE NAME="BraceMaterial" TYPE="String">&lt;Default&gt;</VALUE>
+              <VALUE NAME="WorkingDataStore" TYPE="String" />
+            </ATTRIBUTES>
+            <PPLChildElements>
+              <Insulator>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">7a028c3a-1466-4244-b73a-3e8819bd3938</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Description" TYPE="String">Pin Insulator - 5 kV</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                  <VALUE NAME="Type" TYPE="String">Pin</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">2.375</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-1.57270969105176</VALUE>
+                  <VALUE NAME="Side" TYPE="String">Inline</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">50</VALUE>
+                  <VALUE NAME="LengthInInches" TYPE="Double">7.5</VALUE>
+                  <VALUE NAME="DavitAngle" TYPE="Double">1.18682389135614</VALUE>
+                  <VALUE NAME="Pitch" TYPE="Double">0</VALUE>
+                  <VALUE NAME="Crab" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="WidthInInches" TYPE="Double">3.5</VALUE>
+                  <VALUE NAME="Weight" TYPE="Double">6</VALUE>
+                  <VALUE NAME="Sheds" TYPE="String">&lt;default&gt;</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="EndFitting" TYPE="String">Free</VALUE>
+                  <VALUE NAME="JumperID" TYPE="String" />
+                  <VALUE NAME="TargetID" TYPE="String" />
+                  <VALUE NAME="JCPX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="JCPA" TYPE="Double">0</VALUE>
+                  <VALUE NAME="JCPZ" TYPE="Double">12</VALUE>
+                  <VALUE NAME="StalkMaterial" TYPE="String">&lt;Default&gt;</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+                <PPLChildElements>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">af18355a-6d4b-449b-88b0-20f6f64e81ce</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">Primary</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                      <VALUE NAME="Type" TYPE="String">4/0 COPPER 7 STRAND</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">-1.64899713171095</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">1407.87401574803</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">4.22</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">8.54578497959908</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">1557.2</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">458</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">9160</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.5217</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.0544666666666667</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">17000000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">9.4E-06</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">220475ff-9f2e-45ae-98d5-90b9d4c14c34</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">9b0f0318-0635-4174-8c43-fc5ba3affd59</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">Primary</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                      <VALUE NAME="Type" TYPE="String">4/0 COPPER 7 STRAND</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">-4.75095894973883</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">898.031496062992</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">2.47</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">4.26694464525191</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">1557.2</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">458</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">9160</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.5217</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.0544666666666667</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">17000000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">9.4E-06</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">c2cb5da6-2272-409e-806a-344022222872</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                </PPLChildElements>
+              </Insulator>
+              <Insulator>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">405f8edc-dd3e-46f8-a593-6840416cc0f1</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Description" TYPE="String">Pin Insulator - 5 kV</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                  <VALUE NAME="Type" TYPE="String">Pin</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">2.375</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-1.57272611782947</VALUE>
+                  <VALUE NAME="Side" TYPE="String">Inline</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">-18</VALUE>
+                  <VALUE NAME="LengthInInches" TYPE="Double">7.5</VALUE>
+                  <VALUE NAME="DavitAngle" TYPE="Double">1.18682389135614</VALUE>
+                  <VALUE NAME="Pitch" TYPE="Double">0</VALUE>
+                  <VALUE NAME="Crab" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="WidthInInches" TYPE="Double">3.5</VALUE>
+                  <VALUE NAME="Weight" TYPE="Double">6</VALUE>
+                  <VALUE NAME="Sheds" TYPE="String">&lt;default&gt;</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="EndFitting" TYPE="String">Free</VALUE>
+                  <VALUE NAME="JumperID" TYPE="String" />
+                  <VALUE NAME="TargetID" TYPE="String" />
+                  <VALUE NAME="JCPX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="JCPA" TYPE="Double">0</VALUE>
+                  <VALUE NAME="JCPZ" TYPE="Double">12</VALUE>
+                  <VALUE NAME="StalkMaterial" TYPE="String">&lt;Default&gt;</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+                <PPLChildElements>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">731a682e-17cc-4c76-b6d9-fb5fa3084ace</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">Primary</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                      <VALUE NAME="Type" TYPE="String">4/0 COPPER 7 STRAND</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">-1.62566745089634</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">1401.96850393701</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">4.22</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">8.50251919235292</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">1557.2</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">458</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">9160</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.5217</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.0544666666666667</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">17000000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">9.4E-06</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">51eb8484-c5f4-4f9c-8ee8-2cefab59d1ba</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">4788ab0f-9cf6-4bff-ac91-4138881d27f8</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">Primary</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                      <VALUE NAME="Type" TYPE="String">4/0 COPPER 7 STRAND</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">-4.76205328055277</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">897.637795275591</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">2.47</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">4.21674690128715</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">1557.2</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">458</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">9160</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.5217</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.0544666666666667</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">17000000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">9.4E-06</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">1cd47727-9b8e-48d2-930b-ef5008c5767b</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                </PPLChildElements>
+              </Insulator>
+              <Insulator>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">2353846a-40d8-492a-8b51-cb3a108469f5</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Description" TYPE="String">Pin Insulator - 5 kV</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                  <VALUE NAME="Type" TYPE="String">Pin</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">2.375</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-1.62817040219414</VALUE>
+                  <VALUE NAME="Side" TYPE="String">Inline</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">21</VALUE>
+                  <VALUE NAME="LengthInInches" TYPE="Double">7.5</VALUE>
+                  <VALUE NAME="DavitAngle" TYPE="Double">1.18682389135614</VALUE>
+                  <VALUE NAME="Pitch" TYPE="Double">0</VALUE>
+                  <VALUE NAME="Crab" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="WidthInInches" TYPE="Double">3.5</VALUE>
+                  <VALUE NAME="Weight" TYPE="Double">6</VALUE>
+                  <VALUE NAME="Sheds" TYPE="String">&lt;default&gt;</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="EndFitting" TYPE="String">Free</VALUE>
+                  <VALUE NAME="JumperID" TYPE="String" />
+                  <VALUE NAME="TargetID" TYPE="String" />
+                  <VALUE NAME="JCPX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="JCPA" TYPE="Double">0</VALUE>
+                  <VALUE NAME="JCPZ" TYPE="Double">12</VALUE>
+                  <VALUE NAME="StalkMaterial" TYPE="String">&lt;Default&gt;</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+                <PPLChildElements>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">45625c4d-ec37-48cb-a85e-de1820e0f830</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">Primary</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                      <VALUE NAME="Type" TYPE="String">4/0 COPPER 7 STRAND</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">-1.58358265216795</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">1399.2125984252</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">2.52</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">8.52654218304731</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">1557.2</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">458</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">9160</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.5217</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.0544666666666667</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">17000000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">9.4E-06</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">ed4d2f38-9350-4e9d-90c8-350cf2bf1097</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">60138a48-b538-40c7-9e3d-5e8c040dabd7</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">Primary</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                      <VALUE NAME="Type" TYPE="String">4/0 COPPER 7 STRAND</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">-4.69960265501164</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">900</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">1.09</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">4.25122560635687</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">1557.2</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">458</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">9160</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.5217</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.0544666666666667</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">17000000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">9.4E-06</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">a8239724-5395-4e9c-94bf-f009e9f72e06</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                </PPLChildElements>
+              </Insulator>
+            </PPLChildElements>
+          </Crossarm>
+          <Insulator>
+            <ATTRIBUTES>
+              <VALUE NAME="DescriptionOverride" TYPE="String">Neutral Spool</VALUE>
+              <VALUE NAME="Guid" TYPE="String">0313ed51-5847-43b0-8abb-f6962920580e</VALUE>
+              <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+              <VALUE NAME="Description" TYPE="String">Spool Neutral</VALUE>
+              <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+              <VALUE NAME="Type" TYPE="String">Spool</VALUE>
+              <VALUE NAME="CoordinateZ" TYPE="Double">479.921844391635</VALUE>
+              <VALUE NAME="CoordinateA" TYPE="Double">0</VALUE>
+              <VALUE NAME="Side" TYPE="String">Street</VALUE>
+              <VALUE NAME="CoordinateX" TYPE="Double">3.38663999301247</VALUE>
+              <VALUE NAME="LengthInInches" TYPE="Double">2.12</VALUE>
+              <VALUE NAME="DavitAngle" TYPE="Double">1.18682389135614</VALUE>
+              <VALUE NAME="Pitch" TYPE="Double">0</VALUE>
+              <VALUE NAME="Crab" TYPE="Double">0</VALUE>
+              <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="WidthInInches" TYPE="Double">2.5</VALUE>
+              <VALUE NAME="Weight" TYPE="Double">1</VALUE>
+              <VALUE NAME="Sheds" TYPE="String">&lt;default&gt;</VALUE>
+              <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+              <VALUE NAME="EndFitting" TYPE="String">Clamped</VALUE>
+              <VALUE NAME="JumperID" TYPE="String" />
+              <VALUE NAME="TargetID" TYPE="String" />
+              <VALUE NAME="JCPX" TYPE="Double">0</VALUE>
+              <VALUE NAME="JCPA" TYPE="Double">0</VALUE>
+              <VALUE NAME="JCPZ" TYPE="Double">12</VALUE>
+              <VALUE NAME="StalkMaterial" TYPE="String">&lt;Default&gt;</VALUE>
+              <VALUE NAME="WorkingDataStore" TYPE="String" />
+            </ATTRIBUTES>
+            <PPLChildElements>
+              <Span>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">0190efb7-02b8-4466-9ba4-c2a916d41802</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                  <VALUE NAME="SpanType" TYPE="String">Neutral</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                  <VALUE NAME="Type" TYPE="String">1/0 COPPER 7 STRAND</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-3.15753396242444</VALUE>
+                  <VALUE NAME="SpanDistanceInInches" TYPE="Double">1396.06299212598</VALUE>
+                  <VALUE NAME="SpanEndHeightDelta" TYPE="Double">-38.69</VALUE>
+                  <VALUE NAME="MidspanDeflection" TYPE="Double">8.91247165090297</VALUE>
+                  <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                  <VALUE NAME="Tension" TYPE="Double">807.5</VALUE>
+                  <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                  <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                  <VALUE NAME="SlackTension" TYPE="Double">238</VALUE>
+                  <VALUE NAME="RatedStrength" TYPE="Double">4750</VALUE>
+                  <VALUE NAME="ConductorDiameter" TYPE="Double">0.3684</VALUE>
+                  <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                  <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                  <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                  <VALUE NAME="PoundsPerInch" TYPE="Double">0.0271583333333333</VALUE>
+                  <VALUE NAME="ModulusOfElasticity" TYPE="Double">17000000</VALUE>
+                  <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                  <VALUE NAME="ThermalCoefficient" TYPE="Double">9.4E-06</VALUE>
+                  <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                  <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                  <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                  <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                  <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                  <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                  <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                  <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                  <VALUE NAME="LD_LinkID" TYPE="String">d1f53b09-8cfe-47ac-a939-936ed92ccd3c</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+              </Span>
+              <Span>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">3d702e97-68d9-4831-9b34-4821184daf50</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                  <VALUE NAME="SpanType" TYPE="String">Neutral</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                  <VALUE NAME="Type" TYPE="String">1/0 COPPER 7 STRAND</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-6.32718981190317</VALUE>
+                  <VALUE NAME="SpanDistanceInInches" TYPE="Double">906.692913385827</VALUE>
+                  <VALUE NAME="SpanEndHeightDelta" TYPE="Double">-16.51</VALUE>
+                  <VALUE NAME="MidspanDeflection" TYPE="Double">3.59439629562129</VALUE>
+                  <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                  <VALUE NAME="Tension" TYPE="Double">807.5</VALUE>
+                  <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                  <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                  <VALUE NAME="SlackTension" TYPE="Double">238</VALUE>
+                  <VALUE NAME="RatedStrength" TYPE="Double">4750</VALUE>
+                  <VALUE NAME="ConductorDiameter" TYPE="Double">0.3684</VALUE>
+                  <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                  <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                  <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                  <VALUE NAME="PoundsPerInch" TYPE="Double">0.0271583333333333</VALUE>
+                  <VALUE NAME="ModulusOfElasticity" TYPE="Double">17000000</VALUE>
+                  <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                  <VALUE NAME="ThermalCoefficient" TYPE="Double">9.4E-06</VALUE>
+                  <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                  <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                  <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                  <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                  <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                  <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                  <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                  <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                  <VALUE NAME="LD_LinkID" TYPE="String">2d731dd9-45b6-4d81-bb37-fa3cf9ce0d31</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+              </Span>
+            </PPLChildElements>
+          </Insulator>
+          <Streetlight>
+            <ATTRIBUTES>
+              <VALUE NAME="DescriptionOverride" TYPE="String" />
+              <VALUE NAME="Guid" TYPE="String">b731f1f7-cfe6-428c-aa9c-89d8e9f5dcf3</VALUE>
+              <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+              <VALUE NAME="CoordinateX" TYPE="Double">3.59677680359788</VALUE>
+              <VALUE NAME="Description" TYPE="String">Streetlight - 6 ft. Arm</VALUE>
+              <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+              <VALUE NAME="Type" TYPE="String">General</VALUE>
+              <VALUE NAME="CoordinateZ" TYPE="Double">445.11410066039</VALUE>
+              <VALUE NAME="CoordinateA" TYPE="Double">1.5707963267949</VALUE>
+              <VALUE NAME="LengthInInches" TYPE="Double">72</VALUE>
+              <VALUE NAME="ArmDiameterInInches" TYPE="Double">3</VALUE>
+              <VALUE NAME="ArmRiseInInches" TYPE="Double">12</VALUE>
+              <VALUE NAME="CanDiameterInInches" TYPE="Double">20</VALUE>
+              <VALUE NAME="CanHeightInInches" TYPE="Double">12</VALUE>
+              <VALUE NAME="Weight" TYPE="Double">60</VALUE>
+              <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+              <VALUE NAME="WorkingDataStore" TYPE="String" />
+            </ATTRIBUTES>
+          </Streetlight>
+          <Insulator>
+            <ATTRIBUTES>
+              <VALUE NAME="DescriptionOverride" TYPE="String">Secondary Spool</VALUE>
+              <VALUE NAME="Guid" TYPE="String">f6f77adf-acbf-4f41-8153-f94551201137</VALUE>
+              <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+              <VALUE NAME="Description" TYPE="String">Spool Secondary</VALUE>
+              <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+              <VALUE NAME="Type" TYPE="String">Spool</VALUE>
+              <VALUE NAME="CoordinateZ" TYPE="Double">437.539353090432</VALUE>
+              <VALUE NAME="CoordinateA" TYPE="Double">0</VALUE>
+              <VALUE NAME="Side" TYPE="String">Street</VALUE>
+              <VALUE NAME="CoordinateX" TYPE="Double">3.64250609038046</VALUE>
+              <VALUE NAME="LengthInInches" TYPE="Double">2.12</VALUE>
+              <VALUE NAME="DavitAngle" TYPE="Double">1.18682389135614</VALUE>
+              <VALUE NAME="Pitch" TYPE="Double">0</VALUE>
+              <VALUE NAME="Crab" TYPE="Double">0</VALUE>
+              <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="WidthInInches" TYPE="Double">2.5</VALUE>
+              <VALUE NAME="Weight" TYPE="Double">1</VALUE>
+              <VALUE NAME="Sheds" TYPE="String">&lt;default&gt;</VALUE>
+              <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+              <VALUE NAME="EndFitting" TYPE="String">Clamped</VALUE>
+              <VALUE NAME="JumperID" TYPE="String" />
+              <VALUE NAME="TargetID" TYPE="String" />
+              <VALUE NAME="JCPX" TYPE="Double">0</VALUE>
+              <VALUE NAME="JCPA" TYPE="Double">0</VALUE>
+              <VALUE NAME="JCPZ" TYPE="Double">12</VALUE>
+              <VALUE NAME="StalkMaterial" TYPE="String">&lt;Default&gt;</VALUE>
+              <VALUE NAME="WorkingDataStore" TYPE="String" />
+            </ATTRIBUTES>
+            <PPLChildElements>
+              <Span>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">3150a2fa-ea6f-4cb4-a58d-ffdfcc73619a</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                  <VALUE NAME="SpanType" TYPE="String">Secondary</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">NWE</VALUE>
+                  <VALUE NAME="Type" TYPE="String">TRIPLEX 6 AWG</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-3.16130162704494</VALUE>
+                  <VALUE NAME="SpanDistanceInInches" TYPE="Double">1348.42519685039</VALUE>
+                  <VALUE NAME="SpanEndHeightDelta" TYPE="Double">-29.75</VALUE>
+                  <VALUE NAME="MidspanDeflection" TYPE="Double">35.7212312276375</VALUE>
+                  <VALUE NAME="Tension Type" TYPE="String">Slack</VALUE>
+                  <VALUE NAME="Tension" TYPE="Double">202.3</VALUE>
+                  <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                  <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                  <VALUE NAME="SlackTension" TYPE="Double">60</VALUE>
+                  <VALUE NAME="RatedStrength" TYPE="Double">1190</VALUE>
+                  <VALUE NAME="ConductorDiameter" TYPE="Double">0.58</VALUE>
+                  <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                  <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                  <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                  <VALUE NAME="PoundsPerInch" TYPE="Double">0.009416667</VALUE>
+                  <VALUE NAME="ModulusOfElasticity" TYPE="Double">29000000</VALUE>
+                  <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                  <VALUE NAME="ThermalCoefficient" TYPE="Double">6.4E-06</VALUE>
+                  <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                  <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                  <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                  <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                  <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                  <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                  <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                  <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                  <VALUE NAME="LD_LinkID" TYPE="String">27b3d78a-59bd-4542-8351-5982957591cf</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+              </Span>
+            </PPLChildElements>
+          </Insulator>
+          <Insulator>
+            <ATTRIBUTES>
+              <VALUE NAME="DescriptionOverride" TYPE="String">Spectrum 8M + 0.750 Coax</VALUE>
+              <VALUE NAME="Guid" TYPE="String">0319de5b-c438-4383-b7d1-079bb9fccbd4</VALUE>
+              <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">True</VALUE>
+              <VALUE NAME="Description" TYPE="String">Three Bolt</VALUE>
+              <VALUE NAME="Owner" TYPE="String">Spectrum</VALUE>
+              <VALUE NAME="Type" TYPE="String">Bolt</VALUE>
+              <VALUE NAME="CoordinateZ" TYPE="Double">322.316789860462</VALUE>
+              <VALUE NAME="CoordinateA" TYPE="Double">0</VALUE>
+              <VALUE NAME="Side" TYPE="String">Street</VALUE>
+              <VALUE NAME="CoordinateX" TYPE="Double">4.33811285339185</VALUE>
+              <VALUE NAME="LengthInInches" TYPE="Double">0</VALUE>
+              <VALUE NAME="DavitAngle" TYPE="Double">1.18682389135614</VALUE>
+              <VALUE NAME="Pitch" TYPE="Double">0</VALUE>
+              <VALUE NAME="Crab" TYPE="Double">0</VALUE>
+              <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="WidthInInches" TYPE="Double">3</VALUE>
+              <VALUE NAME="Weight" TYPE="Double">5</VALUE>
+              <VALUE NAME="Sheds" TYPE="String">&lt;default&gt;</VALUE>
+              <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+              <VALUE NAME="EndFitting" TYPE="String">Clamped</VALUE>
+              <VALUE NAME="JumperID" TYPE="String" />
+              <VALUE NAME="TargetID" TYPE="String" />
+              <VALUE NAME="JCPX" TYPE="Double">0</VALUE>
+              <VALUE NAME="JCPA" TYPE="Double">0</VALUE>
+              <VALUE NAME="JCPZ" TYPE="Double">12</VALUE>
+              <VALUE NAME="StalkMaterial" TYPE="String">&lt;Default&gt;</VALUE>
+              <VALUE NAME="WorkingDataStore" TYPE="String" />
+            </ATTRIBUTES>
+            <PPLChildElements>
+              <SpanBundle>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">c2925033-ea6c-4e6f-8681-ba683b8648e9</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                  <VALUE NAME="SpanType" TYPE="String">Span Bundle</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">Spectrum</VALUE>
+                  <VALUE NAME="Type" TYPE="String">8M</VALUE>
+                  <VALUE NAME="Construction" TYPE="String">Overlashed</VALUE>
+                  <VALUE NAME="BundleIceMode" TYPE="String">Min Circle</VALUE>
+                  <VALUE NAME="BundleWindMode" TYPE="String">Min Circle</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-3.15781970466844</VALUE>
+                  <VALUE NAME="SpanDistanceInInches" TYPE="Double">1396.06299212598</VALUE>
+                  <VALUE NAME="SpanEndHeightDelta" TYPE="Double">-0.08</VALUE>
+                  <VALUE NAME="MidspanDeflection" TYPE="Double">2.9641096708095</VALUE>
+                  <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                  <VALUE NAME="Tension" TYPE="Double">2000</VALUE>
+                  <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                  <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                  <VALUE NAME="SlackTension" TYPE="Double">400</VALUE>
+                  <VALUE NAME="RatedStrength" TYPE="Double">8000</VALUE>
+                  <VALUE NAME="ConductorDiameter" TYPE="Double">0.272</VALUE>
+                  <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                  <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                  <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                  <VALUE NAME="PoundsPerInch" TYPE="Double">0.0109166666666667</VALUE>
+                  <VALUE NAME="ModulusOfElasticity" TYPE="Double">23000000</VALUE>
+                  <VALUE NAME="PercentSolid" TYPE="Double">0.75</VALUE>
+                  <VALUE NAME="ThermalCoefficient" TYPE="Double">7.2E-06</VALUE>
+                  <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                  <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                  <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                  <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                  <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                  <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                  <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                  <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                  <VALUE NAME="LD_LinkID" TYPE="String">3f819aa0-1da6-4949-8b8b-652fd331b334</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+                <PPLChildElements>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">3d16406e-0288-43e3-99a2-7722accb3af4</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">CATV</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">Spectrum</VALUE>
+                      <VALUE NAME="Type" TYPE="String">P3-750CA</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">1396.06299212598</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">-0.08</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">2.9641096708095</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">10</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">1</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">1</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.75</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.013416667</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">23000000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">7.2E-06</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">-0.46</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">00000000-0000-0000-0000-000000000000</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                </PPLChildElements>
+              </SpanBundle>
+              <SpanBundle>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">c93d4214-8029-4ad9-b5c3-982d7d90545d</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                  <VALUE NAME="SpanType" TYPE="String">Span Bundle</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">Spectrum</VALUE>
+                  <VALUE NAME="Type" TYPE="String">8M</VALUE>
+                  <VALUE NAME="Construction" TYPE="String">Overlashed</VALUE>
+                  <VALUE NAME="BundleIceMode" TYPE="String">Min Circle</VALUE>
+                  <VALUE NAME="BundleWindMode" TYPE="String">Min Circle</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-6.31358696513065</VALUE>
+                  <VALUE NAME="SpanDistanceInInches" TYPE="Double">906.299212598425</VALUE>
+                  <VALUE NAME="SpanEndHeightDelta" TYPE="Double">-23.3</VALUE>
+                  <VALUE NAME="MidspanDeflection" TYPE="Double">1.25026816312864</VALUE>
+                  <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                  <VALUE NAME="Tension" TYPE="Double">2000</VALUE>
+                  <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                  <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                  <VALUE NAME="SlackTension" TYPE="Double">400</VALUE>
+                  <VALUE NAME="RatedStrength" TYPE="Double">8000</VALUE>
+                  <VALUE NAME="ConductorDiameter" TYPE="Double">0.272</VALUE>
+                  <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                  <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                  <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                  <VALUE NAME="PoundsPerInch" TYPE="Double">0.0109166666666667</VALUE>
+                  <VALUE NAME="ModulusOfElasticity" TYPE="Double">23000000</VALUE>
+                  <VALUE NAME="PercentSolid" TYPE="Double">0.75</VALUE>
+                  <VALUE NAME="ThermalCoefficient" TYPE="Double">7.2E-06</VALUE>
+                  <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                  <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                  <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                  <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                  <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                  <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                  <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                  <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                  <VALUE NAME="LD_LinkID" TYPE="String">9a10c05a-5d5b-456a-834d-0ec8c49ac093</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+                <PPLChildElements>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">fb8f4f94-05de-4d18-8850-61d83b619939</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">CATV</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">Spectrum</VALUE>
+                      <VALUE NAME="Type" TYPE="String">P3-750CA</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">906.299212598425</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">-23.3</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">1.25026816312864</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">10</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">1</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">1</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.75</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.013416667</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">23000000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.78</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">7.2E-06</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">-0.46</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">00000000-0000-0000-0000-000000000000</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                </PPLChildElements>
+              </SpanBundle>
+            </PPLChildElements>
+          </Insulator>
+          <LoadCase>
+            <ATTRIBUTES>
+              <VALUE NAME="DescriptionOverride" TYPE="String">NESC  17 (250B) Grade C , Medium (I:0.25in W:4psf)</VALUE>
+              <VALUE NAME="Guid" TYPE="String">6dd3d85a-fb48-4018-afe7-58592754dc10</VALUE>
+              <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+              <VALUE NAME="Name" TYPE="String">NESC Medium (250B) Grade C</VALUE>
+              <VALUE NAME="Method" TYPE="String">NESC</VALUE>
+              <VALUE NAME="Deflection" TYPE="String">Linear</VALUE>
+              <VALUE NAME="Fixity" TYPE="String">Fixed</VALUE>
+              <VALUE NAME="Solver" TYPE="String">Advanced</VALUE>
+              <VALUE NAME="Algorithm" TYPE="String">Cholesky Decomposition</VALUE>
+              <VALUE NAME="District" TYPE="String">Medium</VALUE>
+              <VALUE NAME="Radial Ice" TYPE="Double">0.25</VALUE>
+              <VALUE NAME="Ice Density" TYPE="Double">0.032986</VALUE>
+              <VALUE NAME="Wind Speed" TYPE="Double">39.5284707521047</VALUE>
+              <VALUE NAME="Horiz Wind Pres" TYPE="Double">4</VALUE>
+              <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+              <VALUE NAME="TempMin" TYPE="Double">15</VALUE>
+              <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+              <VALUE NAME="WindType" TYPE="String">2017</VALUE>
+              <VALUE NAME="Construction Grade" TYPE="String">C</VALUE>
+              <VALUE NAME="Crossing Conditions" TYPE="String">Unknown</VALUE>
+              <VALUE NAME="Installation or Replacement" TYPE="String">At Installation</VALUE>
+              <VALUE NAME="Override Wind" TYPE="Boolean">False</VALUE>
+              <VALUE NAME="NomWindAngle" TYPE="Double">0</VALUE>
+              <VALUE NAME="Terrian Exposure" TYPE="String">N/A</VALUE>
+              <VALUE NAME="Force Coef" TYPE="Double">0</VALUE>
+              <VALUE NAME="Apply FSR" TYPE="Boolean">False</VALUE>
+              <VALUE NAME="Strength Reduction Factor" TYPE="Double">1</VALUE>
+              <VALUE NAME="Load Duration Factor" TYPE="Double">1</VALUE>
+              <VALUE NAME="Immaturity Factor" TYPE="Double">1</VALUE>
+              <VALUE NAME="Shaving Factor" TYPE="Double">1</VALUE>
+              <VALUE NAME="Processing Factor" TYPE="Double">1</VALUE>
+              <VALUE NAME="Degradation Factor" TYPE="Double">1</VALUE>
+              <VALUE NAME="Shear Area" TYPE="String">Tip</VALUE>
+              <VALUE NAME="ApplyCrossarmAllowance" TYPE="String">Auto</VALUE>
+              <VALUE NAME="CrossarmAllowance" TYPE="Double">300</VALUE>
+              <VALUE NAME="ApplyCableAllowance" TYPE="String">Auto</VALUE>
+              <VALUE NAME="CableAllowance" TYPE="Double">300</VALUE>
+              <VALUE NAME="250 Rule" TYPE="String">Rule 250B</VALUE>
+              <VALUE NAME="Vertical LF" TYPE="Double">1.9</VALUE>
+              <VALUE NAME="TransWind LF" TYPE="Double">1.75</VALUE>
+              <VALUE NAME="TransTension LF" TYPE="Double">1.3</VALUE>
+              <VALUE NAME="GeneralLongitude LF" TYPE="Double">1</VALUE>
+              <VALUE NAME="DeadendLongitude LF" TYPE="Double">1.3</VALUE>
+              <VALUE NAME="Guy Vertical LF" TYPE="Double">1.5</VALUE>
+              <VALUE NAME="Guy TransWind LF" TYPE="Double">1.75</VALUE>
+              <VALUE NAME="Guy TransTension LF" TYPE="Double">1.1</VALUE>
+              <VALUE NAME="Guy GeneralLongitude LF" TYPE="Double">1</VALUE>
+              <VALUE NAME="Guy DeadendLongitude LF" TYPE="Double">1.1</VALUE>
+              <VALUE NAME="Anchor Vertical LF" TYPE="Double">1.5</VALUE>
+              <VALUE NAME="Anchor TransWind LF" TYPE="Double">1.75</VALUE>
+              <VALUE NAME="Anchor TransTension LF" TYPE="Double">1.1</VALUE>
+              <VALUE NAME="Anchor GeneralLongitude LF" TYPE="Double">1</VALUE>
+              <VALUE NAME="Anchor DeadendLongitude LF" TYPE="Double">1.1</VALUE>
+              <VALUE NAME="Pole Strength Factor" TYPE="Double">0.85</VALUE>
+              <VALUE NAME="Manufactured Pole Strength Factor" TYPE="Double">1</VALUE>
+              <VALUE NAME="Crossarm Strength Factor" TYPE="Double">0.85</VALUE>
+              <VALUE NAME="Guy Strength Factor" TYPE="Double">0.9</VALUE>
+              <VALUE NAME="Anchor Strength Factor" TYPE="Double">1</VALUE>
+              <VALUE NAME="PoleCapacityThreshhold" TYPE="Double">100</VALUE>
+              <VALUE NAME="Guy Inadequate Thresh" TYPE="Double">0.5</VALUE>
+              <VALUE NAME="Guy At Cap Thresh" TYPE="Double">2</VALUE>
+              <VALUE NAME="Guy Near Cap Thresh" TYPE="Double">10</VALUE>
+              <VALUE NAME="Span Cap Thresh" TYPE="Double">40</VALUE>
+              <VALUE NAME="BucklingConstUnguyed" TYPE="Double">2</VALUE>
+              <VALUE NAME="BucklingConstGuyed" TYPE="Double">0.707106781</VALUE>
+              <VALUE NAME="BucklingConstGuyedDeadend" TYPE="Double">0.707106781186548</VALUE>
+              <VALUE NAME="SectionHeightMethod" TYPE="String">Standard</VALUE>
+              <VALUE NAME="BucklingSectionPercentBCH" TYPE="Double">0.33333333</VALUE>
+              <VALUE NAME="ReportingAngleMode" TYPE="String">Load</VALUE>
+              <VALUE NAME="ReportingAngle" TYPE="Double">1.5707963267949</VALUE>
+              <VALUE NAME="SpanCapSignal" TYPE="Boolean">True</VALUE>
+              <VALUE NAME="ArmCapSignal" TYPE="Boolean">True</VALUE>
+              <VALUE NAME="GuyCapSignal" TYPE="Boolean">True</VALUE>
+              <VALUE NAME="AnchorCapSignal" TYPE="Boolean">True</VALUE>
+              <VALUE NAME="SimpleRendering" TYPE="Boolean">False</VALUE>
+              <VALUE NAME="CarryCapacityUp" TYPE="Boolean">False</VALUE>
+              <VALUE NAME="WorkingDataStore" TYPE="String" />
+              <VALUE NAME="Sealed" TYPE="Boolean">True</VALUE>
+            </ATTRIBUTES>
+          </LoadCase>
+          <Insulator>
+            <ATTRIBUTES>
+              <VALUE NAME="DescriptionOverride" TYPE="String">288</VALUE>
+              <VALUE NAME="Guid" TYPE="String">c4a2ccd4-5e55-41c6-a77d-a5ef1ba6902b</VALUE>
+              <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">True</VALUE>
+              <VALUE NAME="Description" TYPE="String">10M</VALUE>
+              <VALUE NAME="Owner" TYPE="String">Ziply</VALUE>
+              <VALUE NAME="Type" TYPE="String">Bolt</VALUE>
+              <VALUE NAME="CoordinateZ" TYPE="Double">310.507050580673</VALUE>
+              <VALUE NAME="CoordinateA" TYPE="Double">4.44089209850063E-16</VALUE>
+              <VALUE NAME="Side" TYPE="String">Street</VALUE>
+              <VALUE NAME="CoordinateX" TYPE="Double">4.40940908463457</VALUE>
+              <VALUE NAME="LengthInInches" TYPE="Double">0</VALUE>
+              <VALUE NAME="DavitAngle" TYPE="Double">1.18682389135614</VALUE>
+              <VALUE NAME="Pitch" TYPE="Double">0</VALUE>
+              <VALUE NAME="Crab" TYPE="Double">0</VALUE>
+              <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+              <VALUE NAME="WidthInInches" TYPE="Double">3</VALUE>
+              <VALUE NAME="Weight" TYPE="Double">5</VALUE>
+              <VALUE NAME="Sheds" TYPE="String">&lt;default&gt;</VALUE>
+              <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+              <VALUE NAME="EndFitting" TYPE="String">Clamped</VALUE>
+              <VALUE NAME="JumperID" TYPE="String" />
+              <VALUE NAME="TargetID" TYPE="String" />
+              <VALUE NAME="JCPX" TYPE="Double">0</VALUE>
+              <VALUE NAME="JCPA" TYPE="Double">0</VALUE>
+              <VALUE NAME="JCPZ" TYPE="Double">12</VALUE>
+              <VALUE NAME="StalkMaterial" TYPE="String">&lt;Default&gt;</VALUE>
+              <VALUE NAME="WorkingDataStore" TYPE="String" />
+            </ATTRIBUTES>
+            <PPLChildElements>
+              <SpanBundle>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">0967d6b0-ec1d-4704-9edf-b442fd8c3971</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                  <VALUE NAME="SpanType" TYPE="String">Span Bundle</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">Ziply</VALUE>
+                  <VALUE NAME="Type" TYPE="String">10M</VALUE>
+                  <VALUE NAME="Construction" TYPE="String">Overlashed</VALUE>
+                  <VALUE NAME="BundleIceMode" TYPE="String">Min Circle</VALUE>
+                  <VALUE NAME="BundleWindMode" TYPE="String">Min Circle</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-3.15789801899638</VALUE>
+                  <VALUE NAME="SpanDistanceInInches" TYPE="Double">1396.06299212598</VALUE>
+                  <VALUE NAME="SpanEndHeightDelta" TYPE="Double">0</VALUE>
+                  <VALUE NAME="MidspanDeflection" TYPE="Double">4.22286725104693</VALUE>
+                  <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                  <VALUE NAME="Tension" TYPE="Double">2500</VALUE>
+                  <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                  <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                  <VALUE NAME="SlackTension" TYPE="Double">500</VALUE>
+                  <VALUE NAME="RatedStrength" TYPE="Double">10000</VALUE>
+                  <VALUE NAME="ConductorDiameter" TYPE="Double">0.306</VALUE>
+                  <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                  <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                  <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                  <VALUE NAME="PoundsPerInch" TYPE="Double">0.0250833333333333</VALUE>
+                  <VALUE NAME="ModulusOfElasticity" TYPE="Double">23000000</VALUE>
+                  <VALUE NAME="PercentSolid" TYPE="Double">0.75</VALUE>
+                  <VALUE NAME="ThermalCoefficient" TYPE="Double">7.2E-06</VALUE>
+                  <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                  <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                  <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                  <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                  <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                  <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                  <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                  <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                  <VALUE NAME="LD_LinkID" TYPE="String">676a2388-8bbb-4801-a314-c1a545c0bd2f</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+                <PPLChildElements>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">9c5964a9-32c6-483b-8b8e-7bb65921e2b8</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">Fiber</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">Ziply</VALUE>
+                      <VALUE NAME="Type" TYPE="String">288 FIBERS (OFSSA)</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">1396.06299212598</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">0</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">4.22286725104693</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">10</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">1</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">1</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.76</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">65</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">32</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">212</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.01825</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">11200000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.75</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">1.06E-05</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">0.75</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">-0.5</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">00000000-0000-0000-0000-000000000000</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                </PPLChildElements>
+              </SpanBundle>
+              <SpanBundle>
+                <ATTRIBUTES>
+                  <VALUE NAME="DescriptionOverride" TYPE="String" />
+                  <VALUE NAME="Guid" TYPE="String">507f0370-1b03-41d9-b21e-c65da2015196</VALUE>
+                  <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                  <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                  <VALUE NAME="SpanType" TYPE="String">Span Bundle</VALUE>
+                  <VALUE NAME="Owner" TYPE="String">Ziply</VALUE>
+                  <VALUE NAME="Type" TYPE="String">10M</VALUE>
+                  <VALUE NAME="Construction" TYPE="String">Overlashed</VALUE>
+                  <VALUE NAME="BundleIceMode" TYPE="String">Min Circle</VALUE>
+                  <VALUE NAME="BundleWindMode" TYPE="String">Min Circle</VALUE>
+                  <VALUE NAME="CoordinateA" TYPE="Double">-6.31323185988965</VALUE>
+                  <VALUE NAME="SpanDistanceInInches" TYPE="Double">906.692913385827</VALUE>
+                  <VALUE NAME="SpanEndHeightDelta" TYPE="Double">-23.04</VALUE>
+                  <VALUE NAME="MidspanDeflection" TYPE="Double">1.78235875238396</VALUE>
+                  <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                  <VALUE NAME="Tension" TYPE="Double">2500</VALUE>
+                  <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                  <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                  <VALUE NAME="SlackTension" TYPE="Double">500</VALUE>
+                  <VALUE NAME="RatedStrength" TYPE="Double">10000</VALUE>
+                  <VALUE NAME="ConductorDiameter" TYPE="Double">0.306</VALUE>
+                  <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="Temperature" TYPE="Double">60</VALUE>
+                  <VALUE NAME="TempMin" TYPE="Double">30</VALUE>
+                  <VALUE NAME="TempMax" TYPE="Double">120</VALUE>
+                  <VALUE NAME="PoundsPerInch" TYPE="Double">0.0250833333333333</VALUE>
+                  <VALUE NAME="ModulusOfElasticity" TYPE="Double">23000000</VALUE>
+                  <VALUE NAME="PercentSolid" TYPE="Double">0.75</VALUE>
+                  <VALUE NAME="ThermalCoefficient" TYPE="Double">7.2E-06</VALUE>
+                  <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                  <VALUE NAME="IceAccumulationFactor" TYPE="Double">1</VALUE>
+                  <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                  <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                  <VALUE NAME="VerticalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                  <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                  <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                  <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                  <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                  <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                  <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                  <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                  <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                  <VALUE NAME="LD_LinkID" TYPE="String">73fc3926-99d6-4300-8a95-a373df137ef7</VALUE>
+                  <VALUE NAME="WorkingDataStore" TYPE="String" />
+                </ATTRIBUTES>
+                <PPLChildElements>
+                  <Span>
+                    <ATTRIBUTES>
+                      <VALUE NAME="DescriptionOverride" TYPE="String" />
+                      <VALUE NAME="Guid" TYPE="String">840c38b2-df03-45c4-82de-99112d39afd6</VALUE>
+                      <VALUE NAME="TreeNodeExpanded" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="CoordinateX" TYPE="Double">0</VALUE>
+                      <VALUE NAME="CoordinateZ" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanType" TYPE="String">Fiber</VALUE>
+                      <VALUE NAME="Owner" TYPE="String">Ziply</VALUE>
+                      <VALUE NAME="Type" TYPE="String">288 FIBERS (OFSSA)</VALUE>
+                      <VALUE NAME="CoordinateA" TYPE="Double">0</VALUE>
+                      <VALUE NAME="SpanDistanceInInches" TYPE="Double">906.692913385827</VALUE>
+                      <VALUE NAME="SpanEndHeightDelta" TYPE="Double">-23.04</VALUE>
+                      <VALUE NAME="MidspanDeflection" TYPE="Double">1.78235875238396</VALUE>
+                      <VALUE NAME="Tension Type" TYPE="String">Static</VALUE>
+                      <VALUE NAME="Tension" TYPE="Double">10</VALUE>
+                      <VALUE NAME="TensionTable" TYPE="String">Tension;0,500;</VALUE>
+                      <VALUE NAME="SagTable" TYPE="String">Sag;0,12;3600,24;</VALUE>
+                      <VALUE NAME="SlackTension" TYPE="Double">1</VALUE>
+                      <VALUE NAME="RatedStrength" TYPE="Double">1</VALUE>
+                      <VALUE NAME="ConductorDiameter" TYPE="Double">0.76</VALUE>
+                      <VALUE NAME="OverrideTemp" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="Temperature" TYPE="Double">65</VALUE>
+                      <VALUE NAME="TempMin" TYPE="Double">32</VALUE>
+                      <VALUE NAME="TempMax" TYPE="Double">212</VALUE>
+                      <VALUE NAME="PoundsPerInch" TYPE="Double">0.01825</VALUE>
+                      <VALUE NAME="ModulusOfElasticity" TYPE="Double">11200000</VALUE>
+                      <VALUE NAME="PercentSolid" TYPE="Double">0.75</VALUE>
+                      <VALUE NAME="ThermalCoefficient" TYPE="Double">1.06E-05</VALUE>
+                      <VALUE NAME="CreepCoefficient" TYPE="Double">0</VALUE>
+                      <VALUE NAME="IceAccumulationFactor" TYPE="Double">0.75</VALUE>
+                      <VALUE NAME="WindTensionFactor" TYPE="Double">-1</VALUE>
+                      <VALUE NAME="WindDragCoef" TYPE="Double">0</VALUE>
+                      <VALUE NAME="VerticalOffset" TYPE="Double">-0.5</VALUE>
+                      <VALUE NAME="HorizontalOffset" TYPE="Double">0</VALUE>
+                      <VALUE NAME="StopAtTap" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="HasInlineBox" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="BoxOffset" TYPE="Double">15</VALUE>
+                      <VALUE NAME="BoxLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="BoxDiameter" TYPE="Double">8</VALUE>
+                      <VALUE NAME="BoxWeight" TYPE="Double">5</VALUE>
+                      <VALUE NAME="HasDripLoop" TYPE="Boolean">False</VALUE>
+                      <VALUE NAME="DripLoopOffset" TYPE="Double">2</VALUE>
+                      <VALUE NAME="DripLoopLength" TYPE="Double">20</VALUE>
+                      <VALUE NAME="DripLoopHeight" TYPE="Double">10</VALUE>
+                      <VALUE NAME="Modifier" TYPE="String">None</VALUE>
+                      <VALUE NAME="LD_LinkID" TYPE="String">00000000-0000-0000-0000-000000000000</VALUE>
+                      <VALUE NAME="WorkingDataStore" TYPE="String" />
+                    </ATTRIBUTES>
+                  </Span>
+                </PPLChildElements>
+              </SpanBundle>
+            </PPLChildElements>
+          </Insulator>
+        </PPLChildElements>
+        <PoleImages>
+          <PoleImage>
+            <ATTRIBUTES>
+              <VALUE NAME="ImagePath" TYPE="String">G:\Shared drives\2023 Booker Engineering\CLIENTS\TRACK UTILITIES\Butte\O-Calc\Deliverable\F1R1\Calibrated Photos\F1UP13.jpg</VALUE>
+              <VALUE NAME="ImageEmbedded" TYPE="Boolean">False</VALUE>
+            </ATTRIBUTES>
+            <Decorations>
+              <Decoration>
+                <ATTRIBUTES>
+                  <VALUE NAME="PointId" TYPE="String">BuryDepthInInches_3736a16c-4361-4ce0-b5ed-f1a74066585d</VALUE>
+                  <VALUE NAME="DisplayedText" TYPE="String">Setting Depth (ft) of F1UP13</VALUE>
+                  <VALUE NAME="Point1X" TYPE="Double">1445.21569824219</VALUE>
+                  <VALUE NAME="Point1Y" TYPE="Double">349.747131347656</VALUE>
+                  <VALUE NAME="Point2X" TYPE="Double">474.532958984375</VALUE>
+                  <VALUE NAME="Point2Y" TYPE="Double">-999</VALUE>
+                  <VALUE NAME="FontSize" TYPE="Double">11</VALUE>
+                  <VALUE NAME="Color" TYPE="String">#FF8B0000</VALUE>
+                </ATTRIBUTES>
+              </Decoration>
+              <Decoration>
+                <ATTRIBUTES>
+                  <VALUE NAME="PointId" TYPE="String">CoordinateZ_d9283c3f-d1a5-4377-b13c-486dcd90a840</VALUE>
+                  <VALUE NAME="DisplayedText" TYPE="String">Install Height (ft) of Primary 3 pin Crossarm</VALUE>
+                  <VALUE NAME="Point1X" TYPE="Double">1449.64636230469</VALUE>
+                  <VALUE NAME="Point1Y" TYPE="Double">366.609436035156</VALUE>
+                  <VALUE NAME="Point2X" TYPE="Double">470.776123046875</VALUE>
+                  <VALUE NAME="Point2Y" TYPE="Double">-999</VALUE>
+                  <VALUE NAME="FontSize" TYPE="Double">11</VALUE>
+                  <VALUE NAME="Color" TYPE="String">#FF8B0000</VALUE>
+                </ATTRIBUTES>
+              </Decoration>
+              <Decoration>
+                <ATTRIBUTES>
+                  <VALUE NAME="PointId" TYPE="String">CoordinateZ_0313ed51-5847-43b0-8abb-f6962920580e</VALUE>
+                  <VALUE NAME="DisplayedText" TYPE="String">Install Height (ft) of Neutral Spool</VALUE>
+                  <VALUE NAME="Point1X" TYPE="Double">1451.66052246094</VALUE>
+                  <VALUE NAME="Point1Y" TYPE="Double">635.670959472656</VALUE>
+                  <VALUE NAME="Point2X" TYPE="Double">414.454803466797</VALUE>
+                  <VALUE NAME="Point2Y" TYPE="Double">-999</VALUE>
+                  <VALUE NAME="FontSize" TYPE="Double">11</VALUE>
+                  <VALUE NAME="Color" TYPE="String">#FF8B0000</VALUE>
+                </ATTRIBUTES>
+              </Decoration>
+              <Decoration>
+                <ATTRIBUTES>
+                  <VALUE NAME="PointId" TYPE="String">CoordinateZ_0319de5b-c438-4383-b7d1-079bb9fccbd4</VALUE>
+                  <VALUE NAME="DisplayedText" TYPE="String">Install Height (ft) of Spectrum 8M + 0.750 Coax</VALUE>
+                  <VALUE NAME="Point1X" TYPE="Double">1467.13671875</VALUE>
+                  <VALUE NAME="Point1Y" TYPE="Double">1549.39147949219</VALUE>
+                  <VALUE NAME="Point2X" TYPE="Double">256.849731445313</VALUE>
+                  <VALUE NAME="Point2Y" TYPE="Double">-999</VALUE>
+                  <VALUE NAME="FontSize" TYPE="Double">11</VALUE>
+                  <VALUE NAME="Color" TYPE="String">#FF8B0000</VALUE>
+                </ATTRIBUTES>
+              </Decoration>
+              <Decoration>
+                <ATTRIBUTES>
+                  <VALUE NAME="PointId" TYPE="String">CoordinateZ_b731f1f7-cfe6-428c-aa9c-89d8e9f5dcf3</VALUE>
+                  <VALUE NAME="DisplayedText" TYPE="String">Install Height (ft) of Streetlight - 6 ft. Arm 6.0 ft arm H:31' 8"</VALUE>
+                  <VALUE NAME="Point1X" TYPE="Double">1453.02917480469</VALUE>
+                  <VALUE NAME="Point1Y" TYPE="Double">815.473815917969</VALUE>
+                  <VALUE NAME="Point2X" TYPE="Double">379.647064208984</VALUE>
+                  <VALUE NAME="Point2Y" TYPE="Double">-999</VALUE>
+                  <VALUE NAME="FontSize" TYPE="Double">11</VALUE>
+                  <VALUE NAME="Color" TYPE="String">#FF8B0000</VALUE>
+                </ATTRIBUTES>
+              </Decoration>
+              <Decoration>
+                <ATTRIBUTES>
+                  <VALUE NAME="PointId" TYPE="String">CoordinateZ_f6f77adf-acbf-4f41-8153-f94551201137</VALUE>
+                  <VALUE NAME="DisplayedText" TYPE="String">Install Height (ft) of Secondary Spool</VALUE>
+                  <VALUE NAME="Point1X" TYPE="Double">1459.07531738281</VALUE>
+                  <VALUE NAME="Point1Y" TYPE="Double">855.781555175781</VALUE>
+                  <VALUE NAME="Point2X" TYPE="Double">372.072296142578</VALUE>
+                  <VALUE NAME="Point2Y" TYPE="Double">-999</VALUE>
+                  <VALUE NAME="FontSize" TYPE="Double">11</VALUE>
+                  <VALUE NAME="Color" TYPE="String">#FF8B0000</VALUE>
+                </ATTRIBUTES>
+              </Decoration>
+            </Decorations>
+          </PoleImage>
+        </PoleImages>
+        <PoleStrengthData>
+          <PoleCondition>
+            <ATTRIBUTES>
+              <VALUE NAME="OrigGlCircum" TYPE="Double">37</VALUE>
+              <VALUE NAME="ShellRotCircum" TYPE="Double">37</VALUE>
+              <VALUE NAME="HeartRotShellThickness" TYPE="Double">5.88873289440013</VALUE>
+              <VALUE NAME="EffectiveCircumference" TYPE="Double">37</VALUE>
+              <VALUE NAME="RemainingStrength" TYPE="Double">1</VALUE>
+            </ATTRIBUTES>
+          </PoleCondition>
+        </PoleStrengthData>
+      </WoodPole>
+    </PPLChildElements>
+    <Capacity>
+      <Stored>
+        <ATTRIBUTES>
+          <VALUE NAME="PercentAtMCU" TYPE="String">33.8</VALUE>
+          <VALUE NAME="HeightOfMCU" TYPE="String">11.3 ft</VALUE>
+          <VALUE NAME="WindAngleOfMaxMCU" TYPE="String">327.2°</VALUE>
+          <VALUE NAME="LoadAngleAtMCU" TYPE="String">330.6°</VALUE>
+          <VALUE NAME="PercentAtGL" TYPE="String">32.0</VALUE>
+          <VALUE NAME="HeightOfMaxLoadAtGL" TYPE="String">0.0 ft</VALUE>
+          <VALUE NAME="WindAngleOfMaxLoadAtGL" TYPE="String">327.9°</VALUE>
+          <VALUE NAME="LoadAngleAtGL" TYPE="String">331.1°</VALUE>
+          <VALUE NAME="PercentVerticalLoad" TYPE="String">21.7</VALUE>
+          <VALUE NAME="BucklingColumnHeight" TYPE="String">25.1 ft</VALUE>
+          <VALUE NAME="WindAngleOfMaxVerticalLoad" TYPE="String">327.2°</VALUE>
+          <VALUE NAME="LoadAngleOfMaxVerticalLoad" TYPE="String" />
+          <VALUE NAME="GuyWireStatus" TYPE="String">Unguyed</VALUE>
+          <VALUE NAME="AppliedGo95rule" TYPE="String">At Installation (New)</VALUE>
+          <VALUE NAME="PoleStrengthFactor" TYPE="String">0.85</VALUE>
+          <VALUE NAME="PoleFactorOfSafety" TYPE="String">3.477</VALUE>
+          <VALUE NAME="BendingFactorOfSafety" TYPE="String">3.54</VALUE>
+          <VALUE NAME="VerticalFactorOfSafety" TYPE="String">5.422</VALUE>
+        </ATTRIBUTES>
+      </Stored>
+    </Capacity>
+  </PPLScene>
+</PPL>
